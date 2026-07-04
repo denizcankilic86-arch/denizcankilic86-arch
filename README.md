@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Engineering student • Asset maker • Game dev
+  Mechanical Engineering Student • Unity Asset Publisher • Game Developer
 </p>
 
 ---
@@ -56,15 +56,8 @@ I'm a Mechanical Engineering student interested in game development, robotics, a
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=denizcankilic86-arch&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizcankilic86-arch&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denizcankilic86-arch&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=denizcankilic86-arch&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizcankilic86-arch&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -76,7 +69,7 @@ I'm a Mechanical Engineering student interested in game development, robotics, a
 ---
 
 <p align="center">
-Thanks for stopping by.
+Thanks for visiting 👋
 </p>
 
 ---

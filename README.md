@@ -91,4 +91,13 @@ Currently I'm focused on:
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
+</p> 
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/denizcankilic86-arch/denizcankilic86-arch/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>

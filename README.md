@@ -7,22 +7,16 @@
 </p>
 
 <p align="center">
-  Third-Year Mechanical Engineering Student • Unity Asset Publisher • Game Developer
+  Engineering student • Asset maker • Game dev
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I'm a **3rd year Mechanical Engineering student** who enjoys combining engineering and creativity.
+I'm a Mechanical Engineering student interested in game development, robotics, and creating digital assets. 
 
-Currently I'm focused on:
 
-- 🎮 Unity Game Development
-- 🎨 Handcrafted Pixel Art
-- 📦 Unity Asset Store
-- 🤖 Robotics Projects
-- 💻 Programming
 
 ---
 
@@ -53,12 +47,11 @@ Currently I'm focused on:
 
 ---
 
-## 🔥 Current Projects
+##  Current Projects
 
-- 🎨 Creating handcrafted Pixel Art assets for Unity
-- 📦 Publishing assets on Unity Asset Store
-- 🤖 4-Legged Spider Robot
-- 🎮 Developing indie games with Unity
+-  Creating pixel art 
+-  Making assets 
+-  Developing indie game prototypes
 
 ---
 
@@ -74,23 +67,15 @@ Currently I'm focused on:
 
 ---
 
-## 🎯 Goals
 
-- 🚀 Publish high-quality Unity Assets
-- 🎮 Build my own indie games
-- 🤖 Develop advanced robotics projects
-- 📚 Keep learning every day
+##  Contact
 
----
-
-## 📫 Contact
-
-📧 **Mail:** YOURMAIL@gmail.com
+📧 **Mail:** denizcankilic86@gmail.com
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile
 </p> 
 
 

@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Mechanical+Engineering+Student;Unity+Asset+Publisher;Game+Developer;Pixel+Artist;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1800&color=3FB950&center=true&vCenter=true&width=520&lines=Mechanical+Engineering+Student;Unity+Asset+Publisher;Game+Developer" />
 </p>
 
 <p align="center">
@@ -12,11 +12,9 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I'm a Mechanical Engineering student interested in game development, robotics, and creating digital assets. 
-
-
+I'm a Mechanical Engineering student interested in game development, robotics, and creating digital assets.
 
 ---
 
@@ -47,11 +45,11 @@ I'm a Mechanical Engineering student interested in game development, robotics, a
 
 ---
 
-##  Current Projects
+## 🔥 Current Projects
 
--  Creating pixel art 
--  Making assets 
--  Developing indie game prototypes
+- 🎨 Creating pixel art
+- 📦 Making assets
+- 🎮 Developing indie game prototypes
 
 ---
 
@@ -65,24 +63,26 @@ I'm a Mechanical Engineering student interested in game development, robotics, a
 
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=denizcankilic86-arch&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
-
-##  Contact
+## 📫 Contact
 
 📧 **Mail:** denizcankilic86@gmail.com
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile
-</p> 
-
+Thanks for stopping by.
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/denizcankilic86-arch/denizcankilic86-arch/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/denizcankilic86-arch/denizcankilic86-arch/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
